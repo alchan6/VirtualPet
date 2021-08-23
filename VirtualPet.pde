@@ -1,8 +1,4 @@
-
-void setup(){
-  //some of your code here
-}
-void draw(){
-  //more of your code here
-}
-
+size(300,300);
+ellipse(150,150,150,150);
+triangle(110,90,60,60,80,121);
+triangle(190,90,250,60,220,121);
